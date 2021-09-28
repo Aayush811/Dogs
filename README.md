@@ -1,4 +1,4 @@
-# Dogs
+# Dogs-Point
 This project will help you if you are planning to buy a new dog or already owning a dog because here you can watch dog's images , compare dog breeds , know how to train them , find a vet near you and many more.
 # Requirments :- 
               node modules :- cheerio , puppeteer , active internet conection , vs code.
